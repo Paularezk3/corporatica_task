@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831987054163",
+    "project_id": "arcore-yolov8-project",
+    "storage_bucket": "arcore-yolov8-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831987054163:android:95b25858deb222e70f78a6",
+        "android_client_info": {
+          "package_name": "com.Paula.flutter_ai_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3TlaDaw_vSUy1iQiVGm0LD9Yg5dUoII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831987054163:android:40e8f36388ebc59f0f78a6",
+        "android_client_info": {
+          "package_name": "com.example.arcore_yolov8_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3TlaDaw_vSUy1iQiVGm0LD9Yg5dUoII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
