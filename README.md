@@ -38,14 +38,11 @@ The project was built with **Flutter**, using **GetX** for state management, to 
 
 ## 📸 Screenshots
 
-### Welcome Screen
-![Welcome Screen](path-to-your-screenshot.png)
-
 ### Object Detection Page
-![Object Detection](path-to-your-screenshot.png)
+![Object Detection](https://github.com/Paularezk3/corporatica_task/blob/master/Assets/images/Screenshot_20241119_055045.jpg?raw=true)
 
 ### Gallery Page
-![Gallery Page](path-to-your-screenshot.png)
+![Gallery Page](https://github.com/Paularezk3/corporatica_task/blob/master/Assets/images/Screenshot_20241119_055054.jpg?raw=true)
 
 ## 🛠️ Technologies Used
 
