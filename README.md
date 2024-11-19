@@ -120,6 +120,6 @@ We welcome contributions to improve this project! To contribute:
 Feel free to report any issues or suggestions by opening a GitHub issue.
 
 ## 📬 Contact
-For any questions or feedback, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to me at [paularezk3@gmail.com](mailto:paularezk3@gmail.com).
 
 ---
